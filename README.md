@@ -1,0 +1,2 @@
+# Roadmap-to-Data-Science-and-Artificial-Intelligence---2nd-NELIREF-Data-Science-AI-Summer-School-2025
+This repository is part of the 2nd NELIREF Data Science &amp; AI Summer School 2025, held on June 27, 2025. This session covered the Roadmap to Data Science &amp; Artificial Intelligence, outlining key steps for becoming a Data Science &amp; AI Engineer and foundational concepts in modern machine learning.
